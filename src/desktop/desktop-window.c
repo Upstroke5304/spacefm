@@ -54,7 +54,7 @@
 #include <sys/stat.h>
 #include <unistd.h>
 
-#include "gtk2-compat.h"
+/*#include "gtk2-compat.h"*/
 
 struct _DesktopItem
 {
